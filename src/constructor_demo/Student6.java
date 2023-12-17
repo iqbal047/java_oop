@@ -1,4 +1,4 @@
-package constructor;
+package constructor_demo;
 
 public class Student6 {
     int id;
