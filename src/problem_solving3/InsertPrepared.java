@@ -16,6 +16,7 @@ public class InsertPrepared {
             int i=stmt.executeUpdate();
             System.out.println(i+" records inserted");
             con.close();
-        }catch(Exception e){ System.out.println(e);}
+        }
+        catch(Exception e){ System.out.println(e);}
     }
 }
