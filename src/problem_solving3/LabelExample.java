@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class LabelExample {
     //How to add lable in AWT program in java
-    public static void main(String args[]){
+    public static void main(String[] args){
         Frame f= new Frame("Label Example by TechIqbal");
         Label l1,l2;
         l1=new Label("First Label.");
