@@ -12,7 +12,7 @@ public class First extends Frame {
         setLayout(null);//no layout manager
         setVisible(true);//now frame will be visible, by default not visible
     }
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         First f = new First();
         }
     }
