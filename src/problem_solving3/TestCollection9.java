@@ -8,10 +8,10 @@ public class TestCollection9 {
     public static void main(String[] args) {
         //Creating HashSet and adding elements
         HashSet<String> set=new HashSet<String>();
-        set.add("Rajendra");
-        set.add("Raja");
-        set.add("Ravi");
-        set.add("Technolamror");
+        set.add("Riaj Mazumder");
+        set.add("Rehan");
+        set.add("Nawsish");
+        set.add("Iqbal");
         //Traversing elements
         Iterator<String> itr=set.iterator();
         while(itr.hasNext()){
