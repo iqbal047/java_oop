@@ -8,9 +8,9 @@ public class LinkedHashSet_Techiqbal {
     public static void main(String[] args) {
         LinkedHashSet<String> al=new LinkedHashSet<String>();
 
-        al.add("Rajendra");
-        al.add("Raja");
-        al.add("Ravi");
+        al.add("Riaj");
+        al.add("Adiat");
+        al.add("Nawsish");
         al.add("TechIqbal");
         Iterator<String> itr=al.iterator();
         while (itr.hasNext()) {
