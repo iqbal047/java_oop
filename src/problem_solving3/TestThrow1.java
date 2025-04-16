@@ -6,7 +6,7 @@ public class TestThrow1 {
         if(age<18)
             throw new ArithmeticException("not valid");
         else
-            System.out.println("welcome to vote on Technolamror");
+            System.out.println("welcome to vote on TechIqbal");
     }
     public static void main(String args[]){
         validate(15);
