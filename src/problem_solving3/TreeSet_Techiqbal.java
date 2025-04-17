@@ -8,10 +8,12 @@ public class TreeSet_Techiqbal {
     public static void main(String[] args) {
         //Creating and adding elements
         TreeSet<String> al=new TreeSet<String>();
-        al.add("Rajendra");
-        al.add("Raja");
-        al.add("Ravi");
-        al.add("Technolamror");  //ments
+        al.add("Nazmul");
+        al.add("Zahid");
+        al.add("Adiat");
+        al.add("Nawsish");
+        al.add("Riaj");
+        al.add("TechIqbal");  //ments
         Iterator<String> itr=al.iterator();
         while(itr.hasNext()){
             System.out.println(itr.next());
