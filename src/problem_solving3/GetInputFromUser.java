@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GetInputFromUser {
     public static void main(String[] args){
-      //  How to get Using input using Scanner Program in java
+      //4  How to get Using input using Scanner Program in java
 
         int a;
         float b;

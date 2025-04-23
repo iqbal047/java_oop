@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class Integers {
-    //Print Integer in java
+    //2 Print Integer in java
     public static void main (String[] args) {
         int c; //declaring a variable
         /* Using for loop to repeat instruction execution */
