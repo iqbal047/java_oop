@@ -12,6 +12,7 @@ public class MapInterfaceExample {
         map.put(102,"Techiqbal");
         for(Map.Entry m:map.entrySet()){
             System.out.println(m.getKey()+" "+m.getValue());
+
         }
     }
 }
