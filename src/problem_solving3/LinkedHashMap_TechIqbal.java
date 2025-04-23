@@ -9,9 +9,9 @@ public class LinkedHashMap_TechIqbal {
 
         LinkedHashMap<Integer,String> hm = new LinkedHashMap<Integer,String>();
 
-        hm.put(100,"Rajendra");
-        hm.put(101,"Vijay");
-        hm.put(102,"Technolamror");
+        hm.put(100,"Riaj");
+        hm.put(101,"Adiat");
+        hm.put(102,"TechIqbal");
 
         for(Map.Entry m:hm.entrySet()){
             System.out.println(m.getKey()+" "+m.getValue());
