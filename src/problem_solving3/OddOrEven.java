@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class OddOrEven {
-    //How to check Odd and Even Number in java.
+    //13 How to check Odd and Even Number in java.
     public static void main(String[] args) {
         int x;
         System.out.println("Enter an integer to check if it is odd or even ");

@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class NestedIfElse {
-    //Nested If Else clause in java
+    //12 Nested If Else clause in java
     public static void main(String[] args) {
         int marksObtained, passingMarks;
         char grade;
