@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class AddNumbers {
-   // How to add two number Program in java
+   //8 How to add two number Program in java
     public static void main(String[] args) {
         int x, y, z;
         System.out.println("Enter two integers to calculate their sum ");

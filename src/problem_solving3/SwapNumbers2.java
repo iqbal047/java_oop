@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class SwapNumbers2 {
-    //How to swap 2 no using 3rd variable Program in java.
+    //7 How to swap 2 no using 3rd variable Program in java.
     public static void main(String[] args) {
         int x, y;
         System.out.println("Enter x and y");

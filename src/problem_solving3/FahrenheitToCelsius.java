@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class FahrenheitToCelsius {
-    // How to convert Fahrenheit to Celsius Program in java
+    //5 How to convert Fahrenheit to Celsius Program in java
     public static void main(String[] args){
 
         float temperature;
