@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class IfElse2 {
-    //If Else clause in java
+    //11 If Else clause in java
     public static void main(String[] args) {
         int marksObtained, passingMarks;
         passingMarks = 40;
