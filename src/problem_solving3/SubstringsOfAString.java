@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class SubstringsOfAString {
-    //Find All substring of string in java Program
+    //29 Find All substring of string in java Program
     public static void main(String[] args) {
         String string, sub;
         int i, c, length;

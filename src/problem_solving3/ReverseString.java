@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class ReverseString {
-    //Print reverse string in java Program
+    //30 Print reverse string in java Program
     public static void main(String[] args) {
         String original, reverse = "";
         Scanner in = new Scanner(System.in);
