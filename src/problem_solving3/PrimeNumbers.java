@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class PrimeNumbers {
-    //Print prime no Program in java
+    //26 Print prime no Program in java
     public static void main(String[] args) {
         int n, status = 1, num = 3;
         Scanner in = new Scanner(System.in);

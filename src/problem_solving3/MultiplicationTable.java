@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class MultiplicationTable {
-    //Print Multiplication table Program in java
+    //25 Print Multiplication table Program in java
     public static void main(String[] args) {
         int n, c;
         System.out.println("Enter an integer to print it's multiplication table");

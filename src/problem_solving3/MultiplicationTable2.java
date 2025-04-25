@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class MultiplicationTable2 {
-    // Print Multiplication table Program in java(For Any Number)
+    //25 Print Multiplication table Program in java(For Any Number)
     public static void main(String[] args) {
         int a, b, c, d;
         System.out.println("Enter range of numbers to print their multiplication table");
