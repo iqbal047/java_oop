@@ -2,7 +2,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class ArmstrongNumber {
-    //Check no is Armstrong or not in java Program
+    //27 Check no is Armstrong or not in java Program
     public static void main(String[] args) {
         int n, sum = 0, temp, remainder, digits = 0;
 

@@ -1,7 +1,7 @@
 package problem_solving3;
 import java.util.Scanner;
 public class FloydTriangle {
-    //Print Floyd’s Triangle in java Program
+    //28 Print Floyd’s Triangle in java Program
     public static void main(String[] args) {
         int n, num = 1, c, d;
         Scanner in = new Scanner(System.in);
