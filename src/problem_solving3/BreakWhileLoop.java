@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class BreakWhileLoop {
-    //While loop using break Program in java
+    //21 While loop using break Program in java
     public static void main(String[] args) {
         int n;
         Scanner input = new Scanner(System.in);

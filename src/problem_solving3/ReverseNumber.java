@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class ReverseNumber {
-    //Print Reverse number in java program
+    //20 Print Reverse number in java program
     public static void main(String[] args) {
 
         int n, reverse = 0;

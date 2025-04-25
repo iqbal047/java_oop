@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class CompareStrings {
-    //How to complete 2 string in Java program
+    //15 How to complete 2 string in Java program
     public static void main(String[] args) {
         String s1, s2;
         Scanner in = new Scanner(System.in);

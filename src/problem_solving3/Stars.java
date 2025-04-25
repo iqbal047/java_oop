@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class Stars {
-    //Print Star console using Loop
+    //17 Print Star console using Loop
     public static void main(String[] args) {
         int row, numberOfStars;
         for (row = 1; row <= 10; row++) {
