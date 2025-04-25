@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class BreakContinueWhileLoop {
-   // While loop using break and continue Program in java
+   //22 While loop using break and continue Program in java
    public static void main(String[] args) {
        int n;
        Scanner input = new Scanner(System.in);
