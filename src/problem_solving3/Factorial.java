@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class Factorial {
-    // Find factorial for given no Program in Java
+    //14 Find factorial for given no Program in Java
     public static void main(String[] args) {
         int n, c, fact = 1;
         System.out.println("Enter an integer to calculate it's factorial");

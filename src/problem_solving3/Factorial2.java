@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Factorial2 {
-    //Calculate factorial for large No
+    //13 Calculate factorial for large No
     public static void main(String[] args) {
         int n, c;
         BigInteger inc = new BigInteger("1");
