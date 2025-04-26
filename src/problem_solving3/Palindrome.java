@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class Palindrome {
-  //  Check Given No is palindrome or Not in java Program
+  //31  Check Given No is palindrome or Not in java Program
   public static void main(String[] args) {
       String original, reverse = "";
       Scanner in = new Scanner(System.in);

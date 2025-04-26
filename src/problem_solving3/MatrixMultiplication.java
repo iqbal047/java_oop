@@ -3,6 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class MatrixMultiplication {
+    //33. How to multiply two matrix in java Program
     public static void main(String[] args) {
         int m, n, p, q, sum = 0, c, d, k;
         Scanner in = new Scanner(System.in);

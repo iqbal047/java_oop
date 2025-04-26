@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class AddTwoMatrix {
-   // How to add two matrix in java Program
+   //32 How to add two matrix in java Program
    public static void main(String[] args) {
        int m, n, c, d;
        Scanner in = new Scanner(System.in);
