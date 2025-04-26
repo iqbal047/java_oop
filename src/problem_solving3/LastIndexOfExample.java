@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class LastIndexOfExample {
-    //How to compare 2 string  in java programme
+    //35. How to compare 2 string in java Program
     public static void main(String[] args) {
         String s1="hello";
         String s2="hello";

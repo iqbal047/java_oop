@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class IndexOfExample {
-    // How to use indesOf() in java Program
+    //37 How to use indesOf() in java Program
     public static void main(String[] args) {
         String s1="this is index of example";
 //passing substring
