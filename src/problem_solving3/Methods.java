@@ -1,5 +1,6 @@
 package problem_solving3;
 
+// 42. How to create method in java Program
 public class Methods {
     // Constructor method
     Methods() {

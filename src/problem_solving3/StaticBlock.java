@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class StaticBlock {
-    //How Static block working in java Program
+    //44 How Static block working in java Program
     public static void main(String[] args) {
         System.out.println("Main method is executed.");
     }

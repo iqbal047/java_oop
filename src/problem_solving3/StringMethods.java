@@ -1,8 +1,7 @@
 package problem_solving3;
 
 public class StringMethods {
-    //Find Length, Concatenate and Replace
-    //String in Java Program
+    //43. Find Length, Concatenate and Replace String in Java Program
     public static void main(String[] args) {
         int n;
         String s = "Java programming", t = "", u = "";
