@@ -1,8 +1,7 @@
 package problem_solving3;
 
 public class Programming {
-    //How to create constructor in java Program
-    //constructor method
+//47. How to create constructor in java Program
     Programming() {
         System.out.println("Constructor method called.");
     }

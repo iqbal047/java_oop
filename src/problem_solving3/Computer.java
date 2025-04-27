@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class Computer {
-    //How to create Multiple class in java Program
+    //46 How to create Multiple class in java Program
     Computer() {
         System.out.println("Constructor of Computer class.");
     }
