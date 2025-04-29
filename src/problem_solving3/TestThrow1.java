@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class TestThrow1 {
-    //. How to throw exception in java Program
+    //50. How to throw exception in java Program
     static void validate(int age){
         if(age<18)
             throw new ArithmeticException("not valid");
