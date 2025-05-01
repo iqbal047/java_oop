@@ -4,6 +4,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 public class GetCurrentDateAndTime {
+    //53. How to print date and time in java Program
     public static void main(String[] args) {
         int day, month, year;
         int second, minute, hour;
