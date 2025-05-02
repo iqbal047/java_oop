@@ -1,7 +1,7 @@
 package problem_solving3;
 
 public class GarbageCollection {
-    //How perform garbage collection in java Program
+    //57.How perform garbage collection in java Program
     public static void main(String [] args) throws Exception
     {
         Runtime rs = Runtime.getRuntime();
