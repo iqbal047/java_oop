@@ -5,7 +5,7 @@ import java.net.InetAddress;
 public class IPAddress {
     //58. How to get own IP Address in java Program
 
-    public static void main(String args[]) throws Exception
+    public static void main(String[] args) throws Exception
     {
         System.out.println(InetAddress.getLocalHost());
     }
