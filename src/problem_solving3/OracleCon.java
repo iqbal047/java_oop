@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class OracleCon {
-    //How to connect Database using java Program
+    //63. How to connect Database using java Program
     public static void main(String[] args) {
         try{
             //step1 load the driver class
