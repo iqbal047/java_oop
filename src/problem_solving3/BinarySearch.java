@@ -3,7 +3,7 @@ package problem_solving3;
 import java.util.Scanner;
 
 public class BinarySearch {
-    //Binary search Program in java
+    //61. Binary search Program in java
     public static void main(String[] args) {
         int c, first, last, middle, n, search, array[];
         Scanner in = new Scanner(System.in);
